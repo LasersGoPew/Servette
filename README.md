@@ -4,6 +4,9 @@ This is a simple, lightweight, multi-threaded web server written entirely in C.
 
 This isn’t meant to be used for anything serious, so please don’t.
 
+###### Building:
+The makefile is in the src directory.
+
 ###### Command:
 `./server [threads] [port] [directory]`
 
